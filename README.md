@@ -1,4 +1,4 @@
-# single-spa-modal
+# single-spa-modal-sample
 
 single-spaとreactでモーダル(reakit)を作るサンプル
 
