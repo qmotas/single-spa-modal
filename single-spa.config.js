@@ -1,4 +1,6 @@
 import { registerApplication, start } from 'single-spa';
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
 
 registerApplication(
   'modal-app',
